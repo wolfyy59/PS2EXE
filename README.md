@@ -9,6 +9,6 @@ all u need to do is
 5 for commandline write 
 Invoke-ps2exe -noconsole  .\10.ps1 .\targqe1t.exe
 
-this was used to convert meterpreter ps1 to exe
+this was used to convert meterpreter ps1 to exe and its completely undetectable.
 
 # special thanks to jazz.
